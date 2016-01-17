@@ -9,6 +9,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
+gem 'awesome_print'
 
 gem 'jquery-rails'
 gem 'turbolinks'
